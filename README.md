@@ -5,7 +5,7 @@
 
 ## Demo
 
-**Live Demo** [Here (src)](https://github.com/ThorinChen/Tourism-Website)
+**Live Demo** [Here (source)](https://github.com/ThorinChen/Tourism-Website)
 
 
 ## View
